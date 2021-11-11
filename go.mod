@@ -1,4 +1,4 @@
-module github.com/palantir/go-githubapp
+module github.com/wwong/go-githubapp
 
 go 1.16
 
